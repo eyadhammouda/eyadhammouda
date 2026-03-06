@@ -13,7 +13,7 @@
 </a>
 </p> 
 
-- 🏢 Founder of [UI4ME](https://www.ui4me.com/) - AI powered UI design generator
+- 🏢 Founder of [UI4ME](https://www.ui4me.com/) & Software Engineer @ TeamViewer
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 
