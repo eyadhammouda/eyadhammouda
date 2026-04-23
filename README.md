@@ -1,20 +1,20 @@
-
-
-
 <h3 align="center">
   Hello!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;The%20more%20you%20fuck%20around,%20the%20more%20you%20find%20out&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The%20more%20you%20fuck%20around,%20the%20more%20you%20find%20out&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&size=22">
 </a>
-</p> 
+</p>
 
-- 🏢 Founder of [UI4ME](https://www.ui4me.com/) & Software Engineer @ TeamViewer
+- 🏢 Software Engineer @ TeamViewer <img src="https://play-lh.googleusercontent.com/SLSU68Ozmpz3k_id_u1sr755_-ZcwK8iLA3sv1Jj04j91-kFrSZpxTUNTOKuwBrU9g" width="18" valign="middle"/>
 
+- <h2>Things I Built for fun</h2>
+
+- **[UI4ME](https://ui4me.com)** — Design full mobile & web interfaces using AI
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 
 <a href="https://www.linkedin.com/in/eyadhammouda/" target="_blank">
