@@ -15,7 +15,7 @@
 - <h2>Things I Built for fun</h2>
 
 - **[UI4ME](https://ui4me.com)** — Design full mobile & web interfaces using AI
-- **[Pookify](https://www.linkedin.com/posts/eyadhammouda_i-participated-in-the-openai-codex-hackathon-ugcPost-7451338276604370944-jt7B?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnQUnUBcY27YWellPUdIQOulbzZsUal8Bc)** — Live AI agent that lives on your cursor and is trained on your own data, built it during the OpenAI codex hackathon in Vienna 🇦🇹
+- **[Pookify](https://www.linkedin.com/posts/eyadhammouda_i-participated-in-the-openai-codex-hackathon-ugcPost-7451338276604370944-jt7B?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnQUnUBcY27YWellPUdIQOulbzZsUal8Bc)** — Live AI customer support agent that lives on your cursor and is trained on your own data, built it during the OpenAI codex hackathon in Vienna 🇦🇹
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 
 <a href="https://www.linkedin.com/in/eyadhammouda/" target="_blank">
