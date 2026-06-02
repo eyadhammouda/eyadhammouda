@@ -3,12 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG -->
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The%20more%20you%20fuck%20around,%20the%20more%20you%20find%20out&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&size=22">
-</a>
-</p>
+
 
 - 🏢 Software Engineer @ TeamViewer <img src="https://play-lh.googleusercontent.com/SLSU68Ozmpz3k_id_u1sr755_-ZcwK8iLA3sv1Jj04j91-kFrSZpxTUNTOKuwBrU9g" width="18" valign="middle"/>
 
