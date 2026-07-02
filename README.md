@@ -9,6 +9,7 @@
 
 - <h2>Things I Built for fun</h2>
 
+- **[Pookify](https://github.com/eyadhammouda/pookify)** — The Claude Code dynamic Island for your MacBook
 - **[UI4ME](https://ui4me.com)** — Design full mobile & web interfaces using AI
 - **[AI Customer Support](https://www.linkedin.com/posts/eyadhammouda_i-participated-in-the-openai-codex-hackathon-ugcPost-7451338276604370944-jt7B?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnQUnUBcY27YWellPUdIQOulbzZsUal8Bc)** — MacOS Live AI customer support agent that lives on your cursor and is trained on your own data, built it during the OpenAI codex hackathon in Vienna 🇦🇹
 - **Thesis Project** *(ongoing)* — A RAG based system in collaboration with the Austrian Red Cross that helps volunteers choose courses to volunteer for using AI, based on their profile and interests
